@@ -37,6 +37,7 @@ Record your plan here before editing code.
 - Team management approach: Require a name, preserve the submitted name and mascot, and default members to an empty array.
 - Leaderboard approach: Sum activity points by team, include teams with zero points, sort descending, and assign 1-based ranks.
 - Workout suggestions approach: Prefer a workout matching the user’s goal; use their most recent activity as a fallback, explain the recommendation, and return a 4xx for an unknown email.
+- Dummy item
 
 ## Test plan
 
