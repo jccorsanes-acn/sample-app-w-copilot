@@ -1,17 +1,33 @@
-# Build and test a multi-tier application with GitHub Copilot
+<div align="center">
 
-<img src=".github/images/octofit-tracker.png" align="right" height="200px" alt="OctoFit Tracker" />
+# 🎉 Congratulations jccorsanes-acn! 🎉
 
-## Welcome
+<img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
-Build OctoFit Tracker as a three-tier application using React, Express, and MongoDB. Work through the data, API, and presentation contracts in `docs/architecture.md` and the step-by-step guides in `.github/steps/`.
+### 🌟 You've successfully completed the exercise! 🌟
 
-[![Go to Exercise](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=skills&template_name=build-applications-w-copilot-agent-mode)
+## 🚀 Share Your Success!
 
-The starter uses MongoDB on port 27017, the Express API on port 8000, and Vite on port 5173. Start with the commands in `docs/architecture.md`; API traffic from the browser is proxied through Vite.
+**Show off your new skills and inspire others!**
 
-## Having trouble? 🤷
+<a href="https://twitter.com/intent/tweet?text=I%20just%20completed%20the%20%22Build%20and%20test%20a%20multi-tier%20application%20with%20GitHub%20Copilot%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fjccorsanes-acn%2Fsample-app-w-copilot%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20X-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Share on X" />
+</a>
+<a href="https://bsky.app/intent/compose?text=I%20just%20completed%20the%20%22Build%20and%20test%20a%20multi-tier%20application%20with%20GitHub%20Copilot%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fjccorsanes-acn%2Fsample-app-w-copilot%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" alt="Share on Bluesky" />
+</a>
+<a href="https://www.linkedin.com/feed/?shareActive=true&text=I%20just%20completed%20the%20%22Build%20and%20test%20a%20multi-tier%20application%20with%20GitHub%20Copilot%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fjccorsanes-acn%2Fsample-app-w-copilot%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Share on LinkedIn" />
+</a>
 
-- Run the focused contract tests documented in `docs/architecture.md` to identify which tier needs attention.
-- Keep API validation and business behavior in the backend service layer, and render loading, error, and empty states in the frontend.
-- Preserve unrelated MongoDB data when running the seed script.
+### 🎯 What's Next?
+
+**Keep the momentum going!**
+
+[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/jccorsanes-acn/sample-app-w-copilot/issues/1)
+[![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://learn.github.com/skills)
+
+*There's no better way to learn than building things!* 🚀
+
+</div>
+
